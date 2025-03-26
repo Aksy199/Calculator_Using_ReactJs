@@ -1,0 +1,20 @@
+.buttonsContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .buttons{
+    width: 45px;
+    height: 45px;
+    margin: 4px;
+    background-color: antiquewhite;
+  }
+  
+  .buttons:hover{
+    width: 47px;
+    height: 47px;
+    margin: 5px;
+    background-color: magenta;
+  }
+  
